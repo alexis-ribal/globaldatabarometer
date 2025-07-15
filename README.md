@@ -27,8 +27,8 @@ This density plot visualizes the distribution of scores for the Global Data Baro
 This scatterplot presents a comparison between the score of the selected Global Data Barometer cluster and the score of the selected Worldwide Governance Indicator (WGI). The selected country is prominently highlighted in red for easy identification. An upward trend among all points in the scatterplot suggests a strong correlation between the two indicators. If the selected country's point is located in the top right quadrant of the scatterplot, it signifies strong performance in both data governance (GDB) and overall governance (WGI). Conversely, if the country's point is in the bottom left quadrant, it indicates weaker performance across both indicators.
 
 ## Sources:
-[The Global Data Barometer 2nd Edition](https://globaldatabarometer.org/)
-[Worldwide Governance Indicators, 2024 Update, World Bank](https://www.worldbank.org/en/publication/worldwide-governance-indicators)
+- [The Global Data Barometer 2nd Edition](https://globaldatabarometer.org/)
+- [Worldwide Governance Indicators, 2024 Update, World Bank](https://www.worldbank.org/en/publication/worldwide-governance-indicators)
 
 
 Author: [Alexis Rivera-Ballesteros](https://alexis-ribal.github.io/)
